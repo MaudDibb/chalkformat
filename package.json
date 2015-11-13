@@ -1,0 +1,10 @@
+{
+  "name": "chalkformat",
+  "version": "0.0.1",
+  "description": "format messages with chalk in a more intelligent way",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-styles": "^2.1.0",
+    "chalk": "^1.1.1"
+  }
+}
