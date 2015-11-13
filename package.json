@@ -1,8 +1,10 @@
 {
   "name": "chalkformat",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "formatted console logging with chalk for Node.js",
   "license": "MIT",
+  "homepage": "https://github.com/MaudDibb/chalkformat",
+  "repository": "MaudDibb/chalkformat",
   "dependencies": {
     "ansi-styles": "^2.1.0",
     "chalk": "^1.1.1"
